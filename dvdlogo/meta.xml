@@ -1,0 +1,5 @@
+<meta>
+	<info author="IvanKing" description="Task №1 NEXTRP" />
+    <file src="DVDLogo.png" download="true"/>
+	<script src="client.lua" type="client" />
+</meta>
